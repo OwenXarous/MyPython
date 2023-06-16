@@ -54,7 +54,7 @@ if st.button("ทำนายผล"):
 
    if out[0] == 'Setosa':
     st.image("./pic/Iris1.jpg")
-   elif: out[0] == 'Versicolor':
+   elif out[0] == 'Versicolor':       
     st.image("./pic/Iris2.jpg")
    else:
     st.image("./pic/Iris3.jpg")
