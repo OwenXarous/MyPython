@@ -2,7 +2,7 @@ import streamlit as st
 
 st.header('Wongsatorn')
 st.header("Owen")
-   st.image("./pic/Owen.jpg")
+st.image("./pic/Owen.jpg")
 col1, col2, col3 = st.columns(3)
 
 with col1:
